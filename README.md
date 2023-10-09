@@ -3,7 +3,7 @@ The data and code in this repository should allow full reproduction of the data 
 
 All results can be reproduced by executing the various Jupyter Python notebooks files in this order:
 
-1.Folder 'Two cell types are independent with common goods (with/without glucose competition)'
+1.Folder 'Two cell types are independent with common goods (with_without glucose competition)'
 
 In this folder, we could find the code to produce the results for two cell types being independent with common goods in both with and without glucose competition
 (e.g., Supplementary Fig S1-S3 and Supplementary table 1 and 2).
